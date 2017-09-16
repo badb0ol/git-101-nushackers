@@ -1,4 +1,6 @@
 # git-101-nushackers
+i dont like this message you added
+
 booboo zoo
 
 Hi, Actually I dont like this readme actually.
