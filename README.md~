@@ -8,3 +8,12 @@ booboo zoo
 Hi, Actually I dont like this readme actually.
 
 Repository created during a git Workshop at NUS on 16th September 2017
+
+=======================
+
+Hey Mom,
+
+Today in school i learnt hella cool shit, like how to use git and stuff.
+It's pretty cool but im not gonna go into details coz its kinda hard to understand.
+
+LATAAA BITCH
